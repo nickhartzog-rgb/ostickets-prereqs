@@ -163,7 +163,7 @@ Now we will enter the credentials into the osTicket (Installer) site, (this wind
 <br />
 (Optional) Step 16
 <p> 
-<img width="1375" height="412" alt="image" src="https://github.com/user-attachments/assets/c2cb16cf-340e-4156-a3fd-cc4fcb27970c" /> ![Uploading image.png…]()
+<img width="1375" height="412" alt="image" src="https://github.com/user-attachments/assets/c2cb16cf-340e-4156-a3fd-cc4fcb27970c" />
 
 
 </p>
