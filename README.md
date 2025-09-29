@@ -148,8 +148,38 @@ Step 14
 
 </p>
 <p>
-We already created a database earlier so now we just have to login to it and create another database specific to osTicket and provide the credentials to osTickets installer site. So we're gonna go back to osTicket-Installation-Files folder on the desktop, we're gonna open it, then open the folder named the same as the last one and we're gonna install a file called HeidiSQL_12.3.0.6589_Setup 
+We already created a database earlier so now we just have to login to it and create another database specific to osTicket and provide the credentials to osTickets installer site. So we're gonna go back to osTicket-Installation-Files folder on the desktop, we're gonna open it, then open the folder named the same as the last one and we're gonna install a file called HeidiSQL_12.3.0.6589_Setup which basically allows us to make a connection to our database, configure it and just do stuff in there. So go ahead and double click the file and when it gives you a prompt click "yes" and then click "I accept" the next, next, next until you get to install then click "install" and wait for it to process. It'll prompt you once more, there should be a box that says "launch HeidiSQL" make sure it's checked, and hit finish. When it launches it'll prompt you, just hit "skip", and click "new" it will ask you for a username and password but remember we set it to "ROOT", and "ROOT" for both, after you input the credentials click open (If the username or password fails, you might've did it in lowercase, so try it again like that). So that opened a connection to the database, from here we want to open a database named osTicket. Now there's a a drop-down folder on the left labled "Unnamed" with a little dolphin kinda logo, we're gonna right click on it, and select "Create New" and then database then when we go to name it it needs to be exactly "osTicket" and no variation of that, then click "ok". You should now see it on the left, it will look like "osticket" but don't worry that's just how it appears. 
+</p>
+<br />
+Step 15
+<p> 
+<img width="526" height="353" alt="image" src="https://github.com/user-attachments/assets/6ca68ced-a2c1-46fa-bf95-762b56bb10fa" />
+
+</p>
+<p>
+Now we will enter the credentials into the osTicket (Installer) site, (this window should still be open, if it's not refer to step 9)
 </p>
 <br />
 
-<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
