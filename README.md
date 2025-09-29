@@ -153,11 +153,22 @@ We already created a database earlier so now we just have to login to it and cre
 <br />
 Step 15
 <p> 
-<img width="526" height="353" alt="image" src="https://github.com/user-attachments/assets/6ca68ced-a2c1-46fa-bf95-762b56bb10fa" />
+<img width="372" height="277" alt="image" src="https://github.com/user-attachments/assets/7ea50d17-c2f1-456e-8511-d2c6cc810308" /> --> <img width="333" height="180" alt="image" src="https://github.com/user-attachments/assets/3e296d4f-22b6-48b0-9be5-141b2d83a6f7" />
+
 
 </p>
 <p>
-Now we will enter the credentials into the osTicket (Installer) site, (this window should still be open, if it's not refer to step 9)
+Now we will enter the credentials into the osTicket (Installer) site, (this window should still be open, if it's not refer to step 9) there are five text boxes and they should say (from the top down) "ost_", "localhost", "osTicket", "ROOT(lowercase, maybe)", "ROOT (lowercase, maybe)" and if every box says what I have we are ready to install! After it's done "doing Stuff" it'll bring you to a screen and it will say "Congratulations!" because yeah, you did it! On that page there will be many different links that will take you to osTicket but as different users, like the admin or the end user. From those links we will start our next section! As the screen said, Congratulations you successfully installed osTicket on your Virtual Machine! 
+</p>
+<br />
+(Optional) Step 16
+<p> 
+<img width="1375" height="412" alt="image" src="https://github.com/user-attachments/assets/c2cb16cf-340e-4156-a3fd-cc4fcb27970c" /> ![Uploading image.png…]()
+
+
+</p>
+<p>
+If you happen to be taking a break in-between sections and don't want your VM's to be racking up some charges you can go to Azure and just stop them from running until you wanna get started on the next section! My VM's in the image above are a little different, they are to another project I'm working on right now but it should show you how to do it and what the status should look like if you have successfully stopped them.
 </p>
 <br />
 
